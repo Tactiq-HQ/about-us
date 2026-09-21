@@ -2,7 +2,7 @@
 
 **AI meeting notes for people, teams, and agents.**
 
-A company's freshest knowledge lives in its meetings — and evaporates when the call ends. Tactiq captures it and puts it to work:
+A company's freshest knowledge lives in its meetings — and evaporates when the conversation ends. Tactiq captures it and puts it to work:
 
 - live transcripts and instant AI summaries for the person, across Google Meet, Zoom, and Microsoft Teams — in the browser, no bot joining the call
 - shared, permissioned memory the team can search — with AI workflows that push decisions and actions into the tools where work happens
